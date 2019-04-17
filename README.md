@@ -13,7 +13,7 @@ Sau khi ấn vào 'Play', bạn sẽ được đưa tới 'Login Room' tức ph�
   <li>Nếu bạn muốn tham gia vào phòng của người khác, thì hãy hỏi họ ID của phòng đó và nhập vào phần 'Room ID'. Tất nhiên là bạn vẫn phải nhập tên.</li>
 </ul>
 
-<h4>Lưu ý</h4>:
+<h4>Lưu ý:</h4>
 <ul>
   <li>Một phòng không thể có hai người (hoặc hơn) cùng tên. Ví dụ nếu trong phòng đã có một người tên là 'Nguyễn' thì không thể có người thứ hai cũng tên 'Nguyễn'. Những người ngoài phòng nếu tham gia phòng bằng tên đó sẽ nhận được yêu cầu đổi tên.</li>
 </ul>
@@ -33,7 +33,7 @@ Sau khi vào phòng, mọi người sẽ thấy trang giữa đầu tiên, hiể
 
  ![image](https://user-images.githubusercontent.com/25637330/56320216-47c58500-616c-11e9-9682-b0ff78dbe6f2.png)
  
-<h4>Lưu ý</h4>:
+<h4>Lưu ý:</h4>
 <ul>
   <li>Hiện tại chỉ có 'Ordinary Townsfolk' (dân thường) có thể chọn nhiều hơn 1 lá.</li>
   <li>Trước khi chơi, hãy đảm bảo rằng mọi người trong phòng đều đồng ý với số vai trò.</li>
@@ -49,7 +49,7 @@ Tại đây, mỗi người chơi sẽ được ngẫu nhiên gán một vai tr�
 
 ![image](https://user-images.githubusercontent.com/25637330/56320801-97f11700-616d-11e9-85de-78fd3547b7c9.png)
 
-<h4>Lưu ý</h4>:
+<h4>Lưu ý:</h4>
 <ul>
   <li>Ở trên là hình ảnh trong phòng chơi của admin. Nút 'Start the night' chỉ riêng admin có thể thấy và kích hoạt. Nếu bạn là admin, hãy đảm bảo rằng tất cả mọi người đều đã nhận được vai trò của mình trước khi nhấn nút.</li>
   <li>Mỗi người chơi chỉ cần làm theo hướng dẫn trên màn hinh để hoàn thành vai trò của mình.<b> Hãy nhớ ấn 'End Turn' để kết thúc lượt của mình</b>.</li>
@@ -59,8 +59,7 @@ Tại đây, mỗi người chơi sẽ được ngẫu nhiên gán một vai tr�
   
 Khi mọi người đã hoàn thành xong phần chơi của mình, tất cả sẽ thức dậy. Đây là giai đoạn 'Buổi sáng'.
 
-<h4>Lưu ý<h4>:
-
+<h4>Lưu ý:<h4>
 <ul>
   <li>Người chơi với nhiều vote nhất sẽ bị xử tử. Nếu không có người chơi nào nhiều vote nhất, hệ thống sẽ chọn ngẫu nhiên giữa các người bị bầu.</li>
   <li>Mọi người nên ấn 'End Morning' (Kết thúc sáng) để có thể tiếp tục buổi đêm hôm sau.</li>
